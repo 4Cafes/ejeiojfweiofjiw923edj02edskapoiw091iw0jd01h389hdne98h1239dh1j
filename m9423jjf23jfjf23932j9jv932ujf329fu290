@@ -9,7 +9,7 @@
 ]]
 
 -- // Configuration
-local UpdateDelay = 0.5 -- // second(s)
+local UpdateDelay = 1 -- // second(s)
 local MaxDataPoints = 20
 
 -- // Dependencies
